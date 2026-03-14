@@ -37,6 +37,7 @@ This repository contains the client-side code for a Machine Learning-powered Job
 
 ## 📂 5. Project Structure
 
+```text
 Job_Recommendation_ML_frontend/
 ├── public/                 # Static assets
 ├── src/
@@ -48,6 +49,7 @@ Job_Recommendation_ML_frontend/
 ├── package.json            # Frontend dependencies
 └── tailwind.config.js      # Tailwind configuration
 
+```
 
 ## 💻 6. Local Setup & Installation
 
