@@ -1,7 +1,6 @@
 
 ### ✨Frontend README (`Job_Recommendation_ML_frontend`)
 
-```markdown
 # 🚀 ML-Powered Job Recommendation System (Frontend)
 
 > **Repository Links:**
@@ -20,7 +19,7 @@ This repository contains the client-side code for a Machine Learning-powered Job
 
 ## 🗺️ 3. System Architecture & User Flow
 
-(./sequenceDiagram.png) 
+![System Architecture & User Flow](./sequenceDiagram.png)  
 
 ## 🛠️ 4. Tech Stack
 
@@ -38,7 +37,6 @@ This repository contains the client-side code for a Machine Learning-powered Job
 
 ## 📂 5. Project Structure
 
-```text
 Job_Recommendation_ML_frontend/
 ├── public/                 # Static assets
 ├── src/
@@ -50,7 +48,6 @@ Job_Recommendation_ML_frontend/
 ├── package.json            # Frontend dependencies
 └── tailwind.config.js      # Tailwind configuration
 
-```
 
 ## 💻 6. Local Setup & Installation
 
